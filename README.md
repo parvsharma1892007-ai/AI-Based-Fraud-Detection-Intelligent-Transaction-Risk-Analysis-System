@@ -86,6 +86,7 @@ FraudGuard-AI/
 ├── sample_transactions.csv   # Sample file for Batch Fraud Detection
 ├── requirements.txt
 ├── .gitignore
+├── LICENSE
 └── README.md
 
 # Auto-created at runtime (git-ignored):
@@ -134,4 +135,4 @@ transaction_velocity, amount_deviation, customer_risk_score
 
 ## 📜 License
 
-MIT License. See `LICENSE` (optional).
+This project is licensed under the [MIT License](LICENSE).
